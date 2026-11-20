@@ -1,0 +1,6 @@
+services:
+  - id: ocr-01
+    type: ocr
+    address: localhost:50051
+    enabled: true
+    timeout: 30s
